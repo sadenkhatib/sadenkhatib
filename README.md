@@ -22,8 +22,6 @@ Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ)
 ### [CodeCoach](https://github.com/your-username/codecoach) 
 **Tech Stack:** Python, Flask, React.js, Vite, HTML, CSS  
 
----
-
 ### [Multithreaded Elevator Simulation](https://github.com/your-username/elevator-sim) 
 **Tech Stack:** C, POSIX Threads  
 
