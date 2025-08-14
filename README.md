@@ -19,13 +19,13 @@ Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ)
 
 ## 📂 Projects
 
-### [CodeCoach](https://github.com/your-username/codecoach) 
+### [CodeCoach](https://github.com/sadenkhatib/code-coach) 
 **Tech Stack:** Python, Flask, React.js, Vite, HTML, CSS  
 
-### [Multithreaded Elevator Simulation](https://github.com/your-username/elevator-sim) 
+### [Multithreaded Elevator Simulation](https://github.com/sadenkhatib/multithreaded-elevator-simulation) 
 **Tech Stack:** C, POSIX Threads  
 
-### [CTA Ridership Data Analysis](https://github.com/your-username/cta-ridership)
+### [CTA Ridership Data Analysis](https://github.com/sadenkhatib/cta-database)
 **Tech Stack:** Python, SQLite, Matplotlib  
 
 ## 📫 Connect with Me
