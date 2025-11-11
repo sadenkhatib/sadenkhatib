@@ -29,7 +29,7 @@ Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ)
 **Tech Stack:** Python, SQLite, Matplotlib  
 
 ## 📫 Connect with Me
-- **Email:** sadendk2004@gmail.com  
+- **Email:** sadenk2004@gmail.com  
 - **LinkedIn:** [www.linkedin.com/in/sadenelkhatib](https://www.linkedin.com/in/sadenelkhatib)  
 - **GitHub:** [github.com/sadenkhatib](https://github.com/sadenkhatib)  
 
