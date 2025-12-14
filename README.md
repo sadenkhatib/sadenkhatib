@@ -4,29 +4,26 @@ My name is Saden Elkhatib and I’m a Computer Science graduate from University 
 ## 🛠 Skills
 
 **Programming Languages:**  
-C++, C, Python, JavaScript, SQL, Java  
+Python, C++, C, JavaScript, SQL, Java 
 
 **Frameworks & Libraries:**  
-React.js, Vite, Flask, HTML, CSS, Matplotlib, SQLite  
+React, Vite, Flask, Matplotlib, SQLite, Pandas, NumPy, NLTK, Scikit-learn
 
 **Developer Tools:**  
-Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ)  
-
-**Concepts**:
-- Algorithms & Data Structures
-- Object-Oriented Programming
-- RESTful API Development
+Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ), Jupyter  
 
 ## 📂 Projects
+### [Netflix Content Analysis](https://github.com/sadenkhatib/netflix-content-analysis) 
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter
 
 ### [CodeCoach](https://github.com/sadenkhatib/code-coach) 
 **Tech Stack:** Python, Flask, React.js, Vite, HTML, CSS  
 
-### [Multithreaded Elevator Simulation](https://github.com/sadenkhatib/multithreaded-elevator-simulation) 
-**Tech Stack:** C, POSIX Threads  
-
 ### [CTA Ridership Data Analysis](https://github.com/sadenkhatib/cta-database)
 **Tech Stack:** Python, SQLite, Matplotlib  
+
+### [Multithreaded Elevator Simulation](https://github.com/sadenkhatib/multithreaded-elevator-simulation) 
+**Tech Stack:** C, POSIX Threads  
 
 ## 📫 Connect with Me
 - **Email:** sadenk2004@gmail.com  
