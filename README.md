@@ -4,13 +4,13 @@ My name is Saden Elkhatib and I’m a Computer Science graduate from University 
 ## 🛠 Skills
 
 **Programming Languages:**  
-Python, C++, C, JavaScript, SQL, Java 
+Python, C++, C, JavaScript, HTML/CSS, SQL, Java 
 
 **Frameworks & Libraries:**  
-React, Vite, Flask, Matplotlib, SQLite, Pandas, NumPy, NLTK, Scikit-learn
+React, Vite, Next.js, Node.js, Flask, Matplotlib, SQLite, Pandas, NumPy, NLTK, Scikit-learn
 
 **Developer Tools:**  
-Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ), Jupyter  
+Git, GitHub, VS Code, JetBrains (PyCharm, IntelliJ), Jupyter Notebook
 
 ## 📂 Projects
 ### [Netflix Content Analysis](https://github.com/sadenkhatib/netflix-content-analysis) 
