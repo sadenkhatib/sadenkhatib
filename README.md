@@ -11,13 +11,15 @@ I'm Saden Elkhatib, a software developer who enjoys building everything from dat
 ## Skills 👨‍💻
 
 **Languages:** Python · C/C++ · JavaScript · TypeScript · HTML/CSS · SQL · Java
+
 **Frameworks and Libraries:** React · Next.js · Node.js · Flask · Tailwind CSS
+
 **Databases:** PostgreSQL · SQLite  
 
 
 ## Projects 
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
 | [newssnap](https://github.com/sadenkhatib/newssnap) | News briefing app pulling live headlines | Next.js · NewsAPI · Gemini |
 | [code-coach](https://github.com/sadenkhatib/code-coach) | Full-stack fitness app that generates personalized workout plans | Flask · React · Vite |
