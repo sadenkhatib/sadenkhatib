@@ -1,6 +1,6 @@
-# Hi, I'm Saden Elkhatib
+# Hi
 
-I'm a software developer who enjoys building everything from data-driven applications to full-stack web apps and systems-level projects.
+I'm Saden Elkhatib, a software developer who enjoys building everything from data-driven applications to full-stack web apps and systems-level projects.
 
 ## About Me
 
@@ -10,10 +10,10 @@ I'm a software developer who enjoys building everything from data-driven applica
 
 ## Skills
 
-**Languages:** Python · C · JavaScript · SQL  
-**Frontend:** React · Next.js · Vite · HTML/CSS  
-**Backend:** Flask · SQLite  
-**Tools & Libraries:** Matplotlib · pthreads · REST APIs
+**Languages:** Python · C/C++ · JavaScript · TypeScript · HTML/CSS · SQL · Java
+**Frameworks and Libraries:** React · Next.js · Node.js · Flask · Tailwind CSS
+**Databases:** PostgreSQL · SQLite  
+
 
 ## Projects
 
